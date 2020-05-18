@@ -98,8 +98,12 @@ Bajo esta perspectiva ontosemiótica, la actividad matemática se puede describi
 
 Como resultado de la investigación realizada en Beltrán-Pellicer, Godino y Giacomone (2018) se obtuvo una propuesta de indicadores de idoneidad didáctica para procesos de enseñanza y aprendizaje de la probabilidad, para cada una de sus seis facetas. Un ejemplo de ello son los indicadores correspondientes a la faceta epistémica, que se muestran en la Tabla 1. 
 
+## Aplicaciones de este tipo de indicadores
 
-Este tipo de indicadores específicos se ha aplicado en la evaluación de vídeos en línea sobre contenidos concretos, como la proporcionalidad (Beltrán-Pellicer, Giacomone y Burgos 2018), mostrando que estos presentan diversos grados de idoneidad, observándose que los vídeos más populares no tienen por qué ser los más adecuados. Además, muchos de estos vídeos presentan errores e imprecisiones. Por otro lado, la diversidad de significados que presentan, en torno a un mismo objeto matemático, debe ser tenida en cuenta por los docentes, pues es algo que puede interferir en la negociación de significados en el aula. Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
+> Evaluación de vídeos en línea sobre contenidos concretos, como la proporcionalidad (Beltrán-Pellicer, Giacomone y Burgos 2018)
+
+- Presentan diversos grados de idoneidad, observándose que los vídeos más populares no tienen por qué ser los más adecuados. 
+- Además, muchos de estos vídeos presentan errores e imprecisiones. Por otro lado, la diversidad de significados que presentan, en torno a un mismo objeto matemático, debe ser tenida en cuenta por los docentes, pues es algo que puede interferir en la negociación de significados en el aula. Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
 Sería interesante realizar estudios similares a los anteriormente mencionados, pero sobre vídeos orientados a la enseñanza de contenidos de probabilidad y estadística. De esta manera, se podrían comparar los resultados de dichas investigaciones con los obtenidos en el ámbito de la proporcionalidad. Posteriormente, sería interesante el planteamiento de experiencias en el ámbito de la formación de profesores.  
 
 ##
