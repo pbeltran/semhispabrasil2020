@@ -106,7 +106,6 @@ Como resultado de la investigación realizada en Beltrán-Pellicer, Godino y Gia
 - Además, muchos de estos vídeos presentan errores e imprecisiones. Por otro lado, la diversidad de significados que presentan, en torno a un mismo objeto matemático, debe ser tenida en cuenta por los docentes, pues es algo que puede interferir en la negociación de significados en el aula. Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
 Sería interesante realizar estudios similares a los anteriormente mencionados, pero sobre vídeos orientados a la enseñanza de contenidos de probabilidad y estadística. De esta manera, se podrían comparar los resultados de dichas investigaciones con los obtenidos en el ámbito de la proporcionalidad. Posteriormente, sería interesante el planteamiento de experiencias en el ámbito de la formación de profesores.  
 
-##
 
 ## ¿Por qué interesarnos en esto? {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
@@ -320,8 +319,6 @@ Se puede acceder a los enlaces fácilmente desde el [artículo](https://www.tand
 . . .
 
 >Los valores obtenidos revelan una baja idoneidad epistémica, que concuerda con resultados de estudios similares para otros campos del conocimiento, como las ciencias experimentales y sociales (Bortoliero & León, 2017; Tan, 2013). 
-
-
 
 
 # Conclusiones
