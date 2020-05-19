@@ -16,11 +16,9 @@ widescreen: true
 
 ![](assets/qr.png){width=60%}
 
-[https://pbeltran.github.io/semhispabrasil2020/](https://pbeltran.github.io/semhispabrasil2020/)
+[https://pbeltran.github.io/semhispabrasil2020](https://pbeltran.github.io/semhispabrasil2020)
 
 # Introducción y marco teórico {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
-
-## Teoría de la Idoneidad Didáctica (TID) 
 
 
 ## Idoneidad didáctica
@@ -33,17 +31,6 @@ Grado en que un proceso de instrucción reúne ciertas características que perm
 ![](assets/images/idoneidad.png){width=65%}
 
 Fuente: Godino (2013).
-
-## Criterios de idoneidad
-:::incremental
-- Para cada faceta Godino (2013) propone un sistema de criterios generales para que sean consideradas de calidad. 
-- Breda, Pino-Fan, & Font (2017) señalan que estos criterios de idoneidad didáctica son potentes herramientas para organizar la reflexión y evaluación de un proceso de instrucción.
-	- Es conveniente utilizarlos para analizar y valorar los vídeos de la muestra considerada. 
-- Santos (2018) propone un modelo para valorar vídeos educativos de matemáticas:
-	- Idoneidad didáctica (EOS).
-	- Lógica difusa para considerar la evaluación mediante una opinión de las comunidades de interés
-	- Métodos multicriterio (TOPSIS), para ordenar los datos obtenidos y tomar decisiones a partir de ellos.
-:::
 
 
 ## Faceta epistémica
@@ -64,18 +51,10 @@ Las **situaciones-problemas** tienen un rol central en el EOS, de modo que los o
 
 >Se trata de dar una respuesta satisfactoria a la cuestión del significado de los objetos matemáticos
 
-
 :::incremental
 - ¿Qué es la media?
 - ¿Qué es el número?
 :::
-
-
-## Algunas referencias para profundizar
-
-- Godino, J. D., Batanero, C. y Font, V. (2019). The onto-semiotic approach: implications for the prescriptive character of didactics. _For the Learning of Mathematics, 39_(1), 37- 42. [Enlace a la versión en español](http://enfoqueontosemiotico.ugr.es/documentos/Godino_Batanero_Font_2019_FLM_esp.pdf)
-- [Juan D. Godino en 'Una empresa docente'](https://www.youtube.com/watch?v=dwSpPZjn0IM)
-- [Vicenç Font en 'Una empresa docente'](https://www.youtube.com/watch?v=VolC5qpRB8k)
 
 ## Faceta epistémica
 
@@ -92,20 +71,71 @@ Bajo esta perspectiva ontosemiótica, la actividad matemática se puede describi
 :::
 
 
-# Propuesta y método de investigación
+## Criterios de idoneidad
+
+:::incremental
+- Para cada faceta Godino (2013) propone un sistema de criterios generales para que sean consideradas de calidad. 
+- Breda, Pino-Fan, & Font (2017) señalan que estos criterios de idoneidad didáctica son potentes herramientas para organizar la reflexión y evaluación de un proceso de instrucción.
+	- Es conveniente utilizarlos para analizar y valorar los vídeos de la muestra considerada. 
+- Santos (2018) propone un modelo para valorar vídeos educativos de matemáticas:
+	- Idoneidad didáctica (EOS).
+	- Lógica difusa para considerar la evaluación mediante una opinión de las comunidades de interés
+	- Métodos multicriterio (TOPSIS), para ordenar los datos obtenidos y tomar decisiones a partir de ellos.
+:::
+
+## Criterios generales de idoneidad epistémica
+
+Siguiendo a Godino (2013)
+
+> Situaciones-problema
+
+- Se presenta una muestra representativa y articulada de situaciones de contextualización, ejercitación y aplicación
+- Se proponen situaciones de generación de problemas (problematización)
 
 ##
 
-Como resultado de la investigación realizada en Beltrán-Pellicer, Godino y Giacomone (2018) se obtuvo una propuesta de indicadores de idoneidad didáctica para procesos de enseñanza y aprendizaje de la probabilidad, para cada una de sus seis facetas. Un ejemplo de ello son los indicadores correspondientes a la faceta epistémica, que se muestran en la Tabla 1. 
+> Lenguajes
+
+- Uso de diferentes modos de expresión matemática, traducciones y conversiones entre ellos. 
+- Nivel del lenguaje adecuado a los niños a que se dirige.
+- Se proponen situaciones de expresión matemática e interpretación.
+
+##
+
+> Reglas (definiciones, procedimientos, propiedades)
+
+- Las definiciones y procedimientosson claros y correctos, y estánadaptados al nivel educativo al que se dirigen.
+- Se presentanlos enunciados y procedimientos fundamentales del tema para el nivel educativo dado.
+- Se proponen situaciones donde los alumnos tengan que generar o negociar definiciones proposiciones o procedimientos.
+
+## 
+
+> Argumentos
+
+- Las explicaciones, comprobaciones y demostraciones son adecuadas al nivel educativo a que se dirigen.
+- Se promueven situaciones donde el alumno tenga que argumentar.
+
+> Relaciones
+
+- Los objetos matemáticos (problemas, definiciones, pro- posiciones, etc.) se relacionan y conectan entre sí. 
+- Se identifican y articulan los diversos significados de los objetos que intervienen en las prácticas.
+
+
+# Propuesta y método de investigación
+
+## GVID para probabilidad
+
+En Beltrán-Pellicer, Godino y Giacomone (2018) se obtuvo una propuesta de indicadores de idoneidad didáctica para procesos de enseñanza y aprendizaje de la probabilidad. 
+
+Los indicadores correspondientes a la faceta epistémica se muestran en la Tabla 1 de nuestra [comunicación](https://www.researchgate.net/publication/341164498_Algunas_propuestas_de_aplicacion_de_indicadores_de_idoneidad_didactica_en_probabilidad).
+
 
 ## Aplicaciones de este tipo de indicadores
 
-> Evaluación de vídeos en línea sobre contenidos concretos, como la proporcionalidad (Beltrán-Pellicer, Giacomone y Burgos 2018)
+> Evaluación de vídeos en línea sobre contenidos concretos
 
-- Presentan diversos grados de idoneidad, observándose que los vídeos más populares no tienen por qué ser los más adecuados. 
-- Además, muchos de estos vídeos presentan errores e imprecisiones. Por otro lado, la diversidad de significados que presentan, en torno a un mismo objeto matemático, debe ser tenida en cuenta por los docentes, pues es algo que puede interferir en la negociación de significados en el aula. Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
-Sería interesante realizar estudios similares a los anteriormente mencionados, pero sobre vídeos orientados a la enseñanza de contenidos de probabilidad y estadística. De esta manera, se podrían comparar los resultados de dichas investigaciones con los obtenidos en el ámbito de la proporcionalidad. Posteriormente, sería interesante el planteamiento de experiencias en el ámbito de la formación de profesores.  
-
+ En [Beltrán-Pellicer, Giacomone y Burgos (2018)](https://tierradenumeros.com/publication/201810-cye-online-videos/201810-cye-online-videos.pdf) aplicamos una GVID específica para repartos propocionales. 
+ 
 
 ## ¿Por qué interesarnos en esto? {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
@@ -113,200 +143,16 @@ Sería interesante realizar estudios similares a los anteriormente mencionados, 
 - YouTube™ es aceptado por los estudiantes como medio para el aprendizaje de las matemáticas (Ramírez, 2010). 
 - Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el **flipped learning** (Davies, Dean, & Ball, 2013).
 
-
-##
-
 > Es necesario que las **didácticas específicas** indaguen sobre el grado de adecuación de estas propuestas de enseñanza-aprendizaje, asegurando de esta forma que la tecnología esté alineada con los objetivos de aprendizaje (Turney, Robinson, Lee, & Soutar, 2009)
 
-# Un estudio sobre vídeos de YouTube {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
+## 
+  
+Los resultados del estudio sobre vídeos de repartos fueron muy interesantes:
+ 
+- Presentan diversos grados de idoneidad: los vídeos más populares no tienen por qué ser los más adecuados. 
+- Muchos de estos vídeos presentan errores e imprecisiones. 
+- Diversidad de significados en torno a un mismo objeto matemático, que debe ser tenida en cuenta por los docentes.
 
-##
-
-Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. doi: 10.1080/11356405.2018.1524651.
-
-[Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full) [Enlace a RG](https://www.researchgate.net/publication/328292739_Online_educational_videos_according_to_specific_didactics_the_case_of_mathematics_Los_Videos_educativos_en_linea_desde_las_didacticas_especificas_el_caso_de_las_matematicas/comments)
-
-![](assets/images/rcye.png){width=50%}
-
-## Objetivo del trabajo
-
-En este estudio se describe y se interpreta la **faceta epistémica** de videos educativos en línea previamente seleccionados, teniendo como objetivo general valorar el grado de adecuación epistémica de los vídeos más vistos por los usuarios en YouTube™.
-
-## Marco teórico y metodología
-
-:::incremental
-- **Metodología cualitativa**, de carácter interpretativo-valorativo.
-- Herramientas teórico-metodológicas del **enfoque ontológico-semiótico del conocimiento y la instrucción matemáticos (EOS)** (Godino, Batanero, & Font, 2007).
-:::
-
-. . .
-
-![](assets/images/eos.png){width=90%}
-[http://enfoqueontosemiotico.ugr.es](http://enfoqueontosemiotico.ugr.es/)
-
-
-## Objeto matemático de estudio {data-background-image="assets/images/student.jpg" data-background-opacity="0.1"}
-
->Repartos directamente proporcionales.
-
-:::incremental
-- Este tipo de situación-problema aparece en el primer ciclo de ESO en España, dentro del bloque dedicado a 'Números y álgebra' (LOMCE).
-- Las concreciones curriculares autonómicas lo incluyen en 2º ESO (13-14 años).
-- La proporcionalidad es un tema recurrente en los canales de YouTube™.
-:::
-
-## Niveles de algebrización
-
-Modelo de razonamiento algebraico escolar (EOS):
-
-- Niveles de algebrización de las prácticas matemáticas que se realizan al resolver tareas propias de Educación Primaria y Secundaria (Godino, Aké, Gonzato, & Wilhelmi, 2014; Godino, Neto, Wilhelmi, Aké, Etchegaray, & Lasa, 2015). 
-- Se definen a partir de los tipos de representaciones usadas, los procesos de generalización implicados y el cálculo analítico que se pone en juego en la actividad matemática correspondiente (los tres primeros niveles que son suficientes para nuestro trabajo).
-
-
-## Niveles de algebrización
-
-![](assets/images/niveles.png){width=65%}
-
-##
-
->Se trata de responder a la preguna de _qué es el álgebra_.
-
-De hecho, es una cuestión de gran interés para la didáctica de la matemática que se trató en la última conferencia de _Una Empresa Docente_, de [Angel Alsina](https://www.youtube.com/watch?v=Iv5g46-bwaA).
-
-## Muestra
-:::::::::::::: {.columns}
-
-::: {.column width="55%"}
-
-:::incremental
-- Una búsqueda por vídeos en YouTube™ con las palabras clave repartos proporcionales devuelve 1370 resultados. 
-- Seleccionamos solamente aquellos con más de 1000 visitas.
-- Se reduce el conjunto a 60 vídeos. De ellos, la mitad tratan exclusivamente repartos inversamente proporcionales o compuestos, de manera que la muestra final de estudio queda determinada por 31 vídeos.
-:::
-
-:::
-
-::: {.column width="45%"}
-
-![](assets/images/muestra.png){width=80%}
-
-:::
-::::::::::::::
-
-# Resultados obtenidos {data-background-image="assets/images/analysis.jpg" data-background-opacity="0.18"}
-
-## Niveles de algebrización
-
-En relación con los niveles de algebrización, encontramos resoluciones:
-
-1. Aritméticas
-2. Proto-algebraicas: razones y proporciones
-3. Proto-algebraicas: valor perdido
-4. Algebraicas: símbolos analíticos sin aludir al contexto
-
-## ¿Es mejor un nivel 4 que un 1?  {data-background-image="assets/images/student.jpg" data-background-opacity="0.1"}
-
-Que sea de un nivel u otro no implica que sea ni mejor ni peor. Simplemente, que se ponen en juego objetos con **mayor o menor grado de abstracción**. En 2ºESO el análisis de la bibliografía revela consenso en un enfoque aritmético, con ciertas conexiones al álgebra.
-
-En la muestra de 31 vídeos encontramos soluciones:
-
-:::incremental
-
-- Parte-todo (fracción como operador): 7 vídeos (23%).
-- Reducción a la unidad: 6 vídeos (19%).
-- Valor perdido: en 11 vídeos (35%).
-- Ecuaciones basadas en _k_: 10 vídeos (32%)
-
-:::
-
-. . .
-
-:::alert
-_Los porcentajes no suman 100%. Hay vídeos que abordan más de un tipo de solución._
-:::
-
-## Registros y representaciones  {data-background-image="assets/images/language.jpg" data-background-opacity="0.1"}
-
-![](assets/images/registros.jpg){width=50%}
-
-## Dos ejemplos {data-background-image="assets/images/language.jpg" data-background-opacity="0.1"}
-
-:::::::::::::: {.columns}
-::: {.column width="45%"}
-
-
-Uso del del registro simbólico-algebraico propio de nivel 3. 
-
-![](assets/images/reg1.jpg){width=90%}
-
-:::
-
-::: {.column width="45%"}
-
-Ejemplo de representación diagramática.
-
-![](assets/images/reg2.jpg){width=90%}
-
-:::
-::::::::::::::
-
-
-## Llegados a este punto (niveles y lenguajes) {data-background-image="assets/images/language.jpg" data-background-opacity="0.1"}
-
-:::incremental
-- Un estudiante puede encontrarse con vídeos que aporten significados poco adecuados a su nivel o que incluso interfieran con el proceso de negociación que plantee su profesor de aula.
-- Surge la necesidad de que sea su docente de referencia el que seleccione los vídeos. O la importancia de adquirir un sentido crítico. 
-:::
-
-## Analisis de las reglas
-
->Solo **uno de los vídeos de la muestra** aporta una definición correcta de la situación:
-
-"Si una persona aporta el doble, le corresponde el doble en el reparto, etc."
-
-. . .
-
->9 de los vídeos (29%) incurren en el error de definir este tipo de situación en términos aditivos, como aquella en la que el que 'más' aportó inicialmente, 'más' recibe: 
-
-"Eso es reparto proporcional, entre que a más cooperes, mayor cantidad te tocará."
-
-## Errores e impreciciones en las reglas
-
-:::incremental
-- Por tanto, se asume que es una situación de proporcionalidad, sin exigir una condición de regularidad. Se fomenta lo que algunos autores llaman la **ilusión de linealidad**.
-- Hay muchos vídeos que ni identifican las magnitudes que intervienen ni sus unidades de medida.
-- En 4 vídeos (13%) hay errores en el tratamiento de las operaciones aritméticas y/o de las expresiones algebraicas y en 5 de los vídeos (16%) se observan otras imprecisiones o errores.
-:::
-
-. . .
-
-![](assets/images/reglas.jpg){width=70%}
-
-## Argumentos
-
-En cuanto a los argumentos. Muchos de los vídeos carecen de ellos. Y de los que hacen, por ejemplo, una comprobación, el argumento destinado a verificarla suele incluir una condición necesaria, pero no suficiente. 
-
->Volvemos al "a mayor... más...".
-
-## Relaciones o conexiones entre los objetos matemáticos
-
-Hay vídeos que no aportan significado, no hay relación alguna entre objetos.
-
-:::incremental
-- Únicamente 4 de los vídeos (13%) identifican y articulan los diversos significados de los objetos que intervienen.
-- En 15 vídeos (48%) solamente se identifican a veces.
-- En 12 vídeos (39%), el profesor no lo hace nunca.
-:::
-
-## La constante de proporcionalidad
-
-El significado de $k$ es el que menos se identifica. Ciertos vídeos hacen uso de los literales $x$, $y$ o $z$, para simbolizar las cantidades desconocidas en el reparto, identifican a qué se refieren, pero posteriormente aparece $k$ y no se establece su significado.
-
-## Valoración de la idoneidad
-
-![](assets/images/idoneidades.jpg){width=80%}
-
-Se puede acceder a los enlaces fácilmente desde el [artículo](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full).
 
 ## Limitaciones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
 
@@ -321,13 +167,23 @@ Se puede acceder a los enlaces fácilmente desde el [artículo](https://www.tand
 >Los valores obtenidos revelan una baja idoneidad epistémica, que concuerda con resultados de estudios similares para otros campos del conocimiento, como las ciencias experimentales y sociales (Bortoliero & León, 2017; Tan, 2013). 
 
 
-# Conclusiones
+## Aplicaciones de este tipo de trabajos
 
-##
+- Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
+- Realizar estudios similares sobre vídeos orientados a la enseñanza de contenidos de probabilidad y estadística. 
+- Comparar los resultados de dichas investigaciones con los obtenidos en el ámbito de la proporcionalidad. 
 
-La TID ofrece un campo activo de trabajo que puede combinarse con metodologías de formación docente y crecimiento profesional, como el estudio de clases (Hummes, Font y Breda, 2019). En esta breve comunicación hemos planteado el interés en analizar vídeos educativos online sobre contenidos específicos de probabilidad y estadística. En primer lugar, porque resulta ser un recurso utilizado por el alumnado como refuerzo o ayuda al estudio; y en segundo lugar porque son un elemento clave en algunas propuestas metodológicas como la clase invertida. Finalmente, estos estudios se complementarían con el diseño de experiencias con profesores en formación.  
 
+# Conclusiones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
 
+## Conclusiones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
+
+- La TID ofrece un campo activo de trabajo que puede combinarse con metodologías de formación docente y crecimiento profesional, como el estudio de clases (Hummes, Font y Breda, 2019). 
+- Interés en analizar vídeos educativos online sobre contenidos específicos de probabilidad y estadística. 
+	- Es un recurso utilizado por el alumnado como refuerzo o ayuda al estudio.
+	- Son un elemento clave en algunas propuestas metodológicas como la clase invertida. 
+
+> Estos estudios se complementarían con el diseño de experiencias con profesores en formación.  
 
 
 # Créditos y referencias {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
@@ -343,13 +199,13 @@ Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational vi
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y Belén Giacomone) y poniendo un enlace a [https://pbeltran.github.io/semhispabrasil2020/](https://pbeltran.github.io/semhispabrasil2020/).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y Belén Giacomone) y poniendo un enlace a [https://pbeltran.github.io/semhispabrasil2020](https://pbeltran.github.io/semhispabrasil2020).
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
 ## {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/semhispabrasil2020/](https://github.com/pbeltran/semhispabrasil2020/)
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/semhispabrasil2020](https://github.com/pbeltran/semhispabrasil2020)
 
 
 La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com).
