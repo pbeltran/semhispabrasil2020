@@ -127,7 +127,7 @@ Siguiendo a Godino (2013)
 
 En Beltrán-Pellicer, Godino y Giacomone (2018) se obtuvo una propuesta de indicadores de idoneidad didáctica para procesos de enseñanza y aprendizaje de la probabilidad. 
 
-Los indicadores correspondientes a la faceta epistémica se muestran en la Tabla 1 de nuestra [comunicación](https://www.researchgate.net/publication/341164498_Algunas_propuestas_de_aplicacion_de_indicadores_de_idoneidad_didactica_en_probabilidad).
+Los indicadores correspondientes a la faceta epistémica se muestran en la Tabla 1 de nuestra [comunicación](https://tierradenumeros.com/publication/202005-semhispabra-idoneidad-probabilidad/202005-semhispabra-idoneidad-probabilidad.pdf).
 
 
 ## Aplicaciones de este tipo de indicadores
