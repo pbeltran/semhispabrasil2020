@@ -104,7 +104,7 @@ Siguiendo a Godino (2013)
 
 > Reglas (definiciones, procedimientos, propiedades)
 
-- Las definiciones y procedimientosson claros y correctos, y estánadaptados al nivel educativo al que se dirigen.
+- Las definiciones y procedimientos son claros y correctos, y estánadaptados al nivel educativo al que se dirigen.
 - Se presentanlos enunciados y procedimientos fundamentales del tema para el nivel educativo dado.
 - Se proponen situaciones donde los alumnos tengan que generar o negociar definiciones proposiciones o procedimientos.
 
@@ -121,7 +121,7 @@ Siguiendo a Godino (2013)
 - Se identifican y articulan los diversos significados de los objetos que intervienen en las prácticas.
 
 
-# Propuesta y método de investigación
+# Propuesta y método de investigación {data-background-image="assets/images/class.jpg" data-background-opacity="0.18"}
 
 ## GVID para probabilidad
 
